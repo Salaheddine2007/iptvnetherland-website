@@ -1,0 +1,16 @@
+# iptvnetherland
+> IPTV Nederland: live zenders, sport en films en series via een IPTV-abonnement, met support via WhatsApp en e-mail. Abonnementen vanaf €15,99 per maand.
+
+## Belangrijkste pagina's
+- [IPTV Nederland (homepage, prijzen en FAQ)](https://iptvnetherland.nl/): abonnementen van 1, 3, 6 en 12 maanden voor 1 tot 4 apparaten
+- [IPTV Nederland abonnement](https://iptvnetherland.nl/iptv-nederland-abonnement/): prijzen, voordelen en keuzehulp
+- [Zenderlijst](https://iptvnetherland.nl/channels-list/): doorzoekbare lijst van zendergroepen (niet volledig)
+- [Installatiehandleiding](https://iptvnetherland.nl/setup-guide/): installeren op Fire TV, Android, iPhone, Smart TV, Windows, Mac en MAG
+- [Over ons](https://iptvnetherland.nl/over-ons/)
+- [Contact](https://iptvnetherland.nl/contact/)
+
+## Feiten
+- 22.000+ live zenders en 120.000+ films en series
+- Inloggegevens binnen 30 minuten na betaling
+- Betalen met PayPal, creditcard of crypto
+- Contact: contact@iptvnetherland.nl, WhatsApp +32 497 06 37 17
