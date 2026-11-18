@@ -6,6 +6,7 @@
 - [IPTV Nederland abonnement](https://iptvnetherland.nl/iptv-nederland-abonnement/): prijzen, voordelen en keuzehulp
 - [Zenderlijst](https://iptvnetherland.nl/channels-list/): doorzoekbare lijst van zendergroepen (niet volledig)
 - [Installatiehandleiding](https://iptvnetherland.nl/setup-guide/): installeren op Fire TV, Android, iPhone, Smart TV, Windows, Mac en MAG
+- [Blog: alle gidsen](https://iptvnetherland.nl/blog/)
 - [Over ons](https://iptvnetherland.nl/over-ons/)
 - [Contact](https://iptvnetherland.nl/contact/)
 
