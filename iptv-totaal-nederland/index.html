@@ -178,6 +178,13 @@ h1,.head h2,.final h2{text-wrap:balance}.head p,.lead{text-wrap:pretty}
  nav.main{display:none;position:absolute;left:0;right:0;top:68px;background:var(--bg);border-bottom:1px solid var(--line);flex-direction:column;align-items:stretch;padding:12px 20px 18px}
  nav.main.open{display:flex}.burger{display:block}}
 @media(max-width:600px){.sticky-cta{display:block;position:fixed;left:0;right:0;bottom:0;z-index:60;padding:10px 16px calc(10px + env(safe-area-inset-bottom));background:rgba(10,14,26,.96);border-top:1px solid var(--line)}.sticky-cta .btn{width:100%}body{padding-bottom:76px}table.cmp th,table.cmp td{padding:12px;font-size:15px}table.cmp tbody th{white-space:normal}body{font-size:16px}section.s{padding:60px 0}.hero{padding:40px 0 56px}.grid3,.steps,.links,.plans,.fg{grid-template-columns:1fr}.stat b{font-size:23px}.nav{display:none}.cta .btn{width:100%}.track li{width:170px}}
+/* phone: show more logos/posters at once so the strips look full instead of one big card */
+@media(max-width:600px){
+ .marquee{margin-bottom:22px}.track{gap:10px}.track li{width:124px;height:58px;padding:8px 12px;border-radius:12px}.track img{max-height:38px}
+ .rail{gap:12px;padding-left:16px;padding-right:16px}.rail>li:first-child{margin-left:0}.rail>li:last-child{margin-right:0}
+ .poster,.poster img{width:150px}.poster span{font-size:12px;padding:30px 10px 10px}
+ .chat,.chat img{width:210px}.chat img{height:467px}
+}
 @media(prefers-reduced-motion:reduce){.track{animation:none}html{scroll-behavior:auto}}
 
 .phero{position:relative;padding:56px 0 8px;background:radial-gradient(800px 360px at 85% 0,rgba(255,106,0,.18),transparent 60%),radial-gradient(700px 360px at 0 100%,rgba(45,91,255,.16),transparent 60%)}
